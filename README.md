@@ -5,3 +5,4 @@
 - 📫 How to reach me
 @vini_freitasz on instagram
 https://www.linkedin.com/in/vinicius-freitas-b8014b1a1/ on linkedin
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusfre&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
